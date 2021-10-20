@@ -1,0 +1,47 @@
+* {
+	font-family: 'Rubik', sans-serif;
+	margin: 0;
+    padding: 0;
+}
+
+.jumbotron {
+	background-image: url(../images/background_image.jpg);
+	height: 100vh;
+	color: white;
+    background-size: cover;
+    background-position: center;
+}
+
+.jumbotron2 {
+	background-color: rgb(255, 115, 50);
+	height: 40vh;
+	color: white;
+}
+
+.jumbotron2 .title {
+	font-size: 50px;
+}
+
+.jumbotron2 .intro p {
+	font-size: 30px;
+}
+
+.jumbotron .title-1 {
+	font-size: 125px;
+}
+
+.jumbotron .title {
+	font-size: 90px;
+}
+
+.jumbotron .intro p {
+	font-size: 40px;
+}
+
+hr {
+    width: 900px;
+    height: 2px!important;
+	background-color: white;
+    display: inline-block;
+    margin-top: 0;
+}
