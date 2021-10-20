@@ -42,6 +42,13 @@ hr {
     width: 900px;
     height: 2px!important;
 	background-color: white;
+	color: #ffff;
     display: inline-block;
     margin-top: 0;
+	border-top-width: 1px;
+    border-top-style: solid;
+    border-top-color: rgba(0, 0, 0, 0.1);
+	box-sizing: content-box;
+    overflow: visible;
+	opacity: 1;
 }
