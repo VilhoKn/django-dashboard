@@ -6,5 +6,4 @@ from django.http import HttpResponse
 def home(request):
 	return render(request, "public_pages/home.html")
 
-def login(request):
-	return render(request, "public_pages/login.html")
+
